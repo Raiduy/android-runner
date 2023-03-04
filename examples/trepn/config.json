@@ -1,7 +1,7 @@
 {
   "type": "native",
   "devices": {
-    "j7duo2": {}
+    "oneplusNord": {}
   },
   "repetitions": 1,
   "duration": 5000,

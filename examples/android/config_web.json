@@ -1,7 +1,7 @@
 {
   "type": "web",
   "devices": {
-    "nexus6p": {}
+    "oneplusNord": {}
   },
   "repetitions": 1,
   "browsers": [
