@@ -356,6 +356,7 @@ class TestAndroidPlugin(object):
         assert aggregated_final_rows['android_mem'] == '1280213.4222222222'
 
 
+
 class TestBatterystatsPlugin(object):
 
     @staticmethod
